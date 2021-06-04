@@ -1,6 +1,6 @@
 ## Hi! I’m Hyungsup 👋
 
-- 👀 I’m interested in Mechatronics, Automation
+- 👀 I’m interested in Mechatronics, Automation, Embedded Systems
 - 🌱 I’m currently learning HTML, CSS
 - 📫 How to reach me ...
 
