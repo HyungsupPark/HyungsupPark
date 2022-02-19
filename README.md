@@ -1,4 +1,4 @@
-## Hi! I’m Hyungsup 👋
+## Hi! I’m Harry👋
 
 - 👀 I’m interested in Mechatronics, Automation, Embedded Systems
 - 🌱 I’m currently learning HTML, CSS
